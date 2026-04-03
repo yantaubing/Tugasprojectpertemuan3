@@ -2,7 +2,7 @@
 Project praktikum Minggu 3 - Flexbox Mastery.
 
 ## 📸 Preview
-![App Screen](assets/images/thankyou.jpeg)
+![App Screen](assets/images/yuntey.jpeg)
 
 ## 🛠️ Features
 - Responsive Grid Layout
@@ -10,4 +10,4 @@ Project praktikum Minggu 3 - Flexbox Mastery.
 - Modern Dark UI Theme
 
 ## 🔗 Live Preview
-[Cek di Expo Snack](([text](https://tinyurl.com/freddy657)))"# Tugasprojectpertemuan3"
+[Cek di Expo Snack]()"# Tugasprojectpertemuan3"
